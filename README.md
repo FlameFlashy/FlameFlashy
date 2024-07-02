@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There!  👋
 
 <!--
 **FlameFlashy/FlameFlashy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Linkedin: https://www.linkedin.com/in/dmytro-sokolov-srvadm/
+
+#### I am DevOps, Systems Administrator and a perpetual student. I am a person who passionate about cloud platforms, process automation, and technology in general. 
+#### In my spare time, I enjoy pursuing self-development and exploring new technologies. Besides, i am also enjoy to play baskatball and pc games. 
+#### I am dedicated to driving continuous improvement and achieving excellence in all that I do.
+
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,bash,cloudflare,docker,git,github,gitlab,grafana,prometheus,kubernetes,terraform,nginx)](https://skillicons.dev)
